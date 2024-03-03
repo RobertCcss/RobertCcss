@@ -27,5 +27,3 @@ Currently, I'm channeling my efforts into two main areas:
 If you have any questions, suggestions, or just want to chat about coding, economics, or anything else, feel free to reach out to me!
 
 You can find me on [GitHub](https://github.com/RobertCcss) and Discord `robertccs`.
-
-Looking forward to connect with you! 😊
